@@ -1,2 +1,2 @@
 # Cisco-Switch-Configuration-Scripts
-Simple python scripts that I wrote to automate Cisco sw
+Simple python scripts that I wrote to automate Cisco switch configurations
